@@ -1,8 +1,10 @@
 // write your code below!
-function(happyHolidays){
+function happyHolidays {
+  console.log('Happy holidays!')
 }
 
-function(happyHolidaysTo){
+function happyHolidaysTo (name) {
+  console.log(`happyHolidaysTo + ${name}`);
 }
 
 function(happyCustomHolidayTo){
