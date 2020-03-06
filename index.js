@@ -7,8 +7,3 @@ function happyHolidaysTo (name) {
   console.log(`happyHolidaysTo + ${name}`);
 }
 
-function(happyCustomHolidayTo){
-}
-
-function(holidayCountdown){
-}
